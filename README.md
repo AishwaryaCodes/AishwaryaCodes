@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aishwarya Kundur</h1>
+<h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate Web Developer from India.</h3><br>
 
 - 🔭 I’m currently working on **redux-crud-apps.**
