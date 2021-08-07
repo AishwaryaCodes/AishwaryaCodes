@@ -42,12 +42,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryacodes&show_icons=true&locale=en&layout=compact" alt="aishwaryacodes" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aishwarya kundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya kundur" height="30" width="40" /></a>
-<a href="https://fb.com/aishwarya kundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aishwarya kundur" height="30" width="40" /></a>
-<a href="https://instagram.com/aish_165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aish_165" height="30" width="40" /></a>
-<a href="https://github.com/AishwaryaCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AishwaryaCodes" height="30" width="40" /></a>  
-<a href="https://twitter.com/AishwaryaKundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishwarya kundur" height="30" width="40" /></a>    
-</p>  
+                <p align="left">
+                <a href="https://www.linkedin.com/in/aishwarya-kundur-3454a6207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya kundur" height="30" width="40" /></a>
+                <a href="https://www.facebook.com/aishwarya.kundur.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aishwarya kundur" height="30" width="40" /></a>
+                <a href="https://www.instagram.com/aish165_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aish_165" height="30" width="40" /></a>
+                <a href="https://github.com/AishwaryaCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AishwaryaCodes" height="30" width="40" /></a>
+                <a href="https://twitter.com/AishwaryaKundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishwarya kundur" height="30" width="40" /></a>           
+           </p> 
 
 - 📄 Know about my experiences: [https://www.canva.com/design/DAEmPKVX2ew/hBDFXIWharvX2VjpAJcA2g/view?utm_content=DAEmPKVX2ew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEmPKVX2ew/hBDFXIWharvX2VjpAJcA2g/view?utm_content=DAEmPKVX2ew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
