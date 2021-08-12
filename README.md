@@ -50,4 +50,4 @@
                 <a href="https://twitter.com/AishwaryaKundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishwarya kundur" height="30" width="40" /></a>           
            </p> 
 
-- 📄 Know about my experiences: [https://www.canva.com/design/DAEmPKVX2ew/hBDFXIWharvX2VjpAJcA2g/view?utm_content=DAEmPKVX2ew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEmPKVX2ew/hBDFXIWharvX2VjpAJcA2g/view?utm_content=DAEmPKVX2ew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences: https://www.canva.com/design/DAEmPKVX2ew/share/preview?token=easo1JNjxiyLFVQxFfiNVw&role=EDITOR&utm_content=DAEmPKVX2ew&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
