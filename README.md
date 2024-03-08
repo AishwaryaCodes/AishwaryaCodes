@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React JS and Redux.**
 
-- 👯 I’m looking to collaborate on **web developments projects.**
+- 👯 I’m looking to collaborate on **Software developments projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AishwaryaCodes](https://github.com/AishwaryaCodes)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Angular, JAVA, Spring Boot**
 
-- 📫 How to reach me **aishwarya.kundur17@gmail.com**
+- 📫 How to reach me **akundur17@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
