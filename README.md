@@ -50,5 +50,3 @@
                 <a href="https://twitter.com/AishwaryaKundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishwarya kundur" height="30" width="40" /></a>           
            </p> 
 
-- 📄 Know about my experiences: https://www.canva.com/design/DAEm4qHgCMw/KHZ3wAqJz9jM023BbF5r1g/view?utm_content=DAEm4qHgCMw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
