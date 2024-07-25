@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AishwaryaCodes](https://github.com/AishwaryaCodes)
 
-- 💬 Ask me about **React JS, Angular, JAVA, Spring Boot, Python SQL**
+- 💬 Ask me about **React JS, Angular, JAVA, Spring Boot, Python, SQL**
 
 - 📫 How to reach me **akundur17@gmail.com**
 
