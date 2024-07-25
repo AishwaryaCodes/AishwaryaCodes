@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate Software Developer, Studying Masters in Computer Science.</h3>
 
-- 🔭 I’m currently working on **redux-crud-apps.**
+- 🔭 I’m currently working on **Open source Projects.**
 
-- 🌱 I’m currently learning **React JS and Redux.**
+- 🌱 I’m currently learning **DSA, Java and Python**
 
 - 👯 I’m looking to collaborate on **Software developments projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AishwaryaCodes](https://github.com/AishwaryaCodes)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Angular, JAVA, Spring Boot, SQL**
+- 💬 Ask me about **React JS, Angular, JAVA, Spring Boot, Python SQL**
 
 - 📫 How to reach me **akundur17@gmail.com**
 
