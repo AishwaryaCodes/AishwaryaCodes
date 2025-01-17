@@ -43,10 +43,14 @@
 
 <h3 align="left">Connect with me:</h3>
                 <p align="left">
+                    
                 <a href="https://www.linkedin.com/in/aishwarya-kundur-3454a6207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya kundur" height="30" width="40" /></a>
                                     
-                <a href="https://github.com/AishwaryaCodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AishwaryaCodes" height="30" width="40" /></a>
+                <a href="https://github.com/AishwaryaCodes" target="blank">
+                <img align="center" src="" alt="AishwaryaCodes" height="30" width="40"/>
+                </a>
                 
-                <a href="https://twitter.com/AishwaryaKundur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aishwarya kundur" height="30" width="40" /></a>           
+                <a href="https://twitter.com/AishwaryaKundur" target="blank"> <img align="center" src="" alt="Aishwarya kundur" height="30" width="40" /></a>     
+                
            </p> 
 
