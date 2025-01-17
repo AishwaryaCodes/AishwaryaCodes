@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UIUX Research, Web Development Project.**
 
-- 🌱 I’m currently learning **UX Research, Web Development, JavaScript, DSA, and Python.**
+- 🌱 I’m currently learning **UX Research, Web Development, Front End Development, JavaScript, DSA, and Python.**
 
 - 👯 I’m looking to collaborate on **Software developments projects.**
 
