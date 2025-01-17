@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate Software Developer, Studying Masters in Computer Science.</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects.**
+- 🔭 I’m currently working on **Web Development Project**
 
-- 🌱 I’m currently learning **DSA, Java and Python**
+- 🌱 I’m currently learning **UX Research, Web Development, JavaScript, DSA, and Python**
 
 - 👯 I’m looking to collaborate on **Software developments projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AishwaryaCodes](https://github.com/AishwaryaCodes)
 
-- 💬 Ask me about **React JS, Angular, JAVA, Spring Boot, Python, SQL**
+- 💬 Ask me about **UIUX, Web projects, JavaScript, React JS, Angular, JAVA, Python, SQL**
 
 - 📫 How to reach me **akundur17@gmail.com**
 
