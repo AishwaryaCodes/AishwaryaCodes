@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">A passionate Software Developer | MS in Computer Science | UX & Frontend Enthusiast</h3>
+<h3 align="center">A passionate Software Developer | MS in Computer Science | Full-Stack Development Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/AishwaryaCodes"><img src="https://img.shields.io/github/followers/AishwaryaCodes?label=Followers&style=social" alt="GitHub Followers"></a>
@@ -10,8 +10,8 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **UIUX Research & Web Development Projects**
-- 🌱 I’m currently learning **UX Research, Web Development, Frontend Development, JavaScript, DSA, and Python**
+- 🔭 I’m currently working on **Full-Stack & Web Development Projects**
+- 🌱 I’m currently learning **Software Development, Frontend Development, JavaScript, DSA, and Python**
 - 👯 I’m looking to collaborate on **Software Development Projects**
 - 👨‍💻 Check out my portfolio: [AishwaryaCodes Portfolio](https://aishwaryacodes.github.io/developer-webapp/)
 - 💬 Ask me about **UI/UX, Web Development, JavaScript, React JS, Angular, Java, Python, SQL**
