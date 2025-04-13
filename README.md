@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">A passionate Software Developer | MS in Computer Science | Full-Stack Development Enthusiast</h3>
+<h3 align="center">A passionate Software Developer | MS in Computer Science | AI-ML | Women in Tech</h3>
 
 <p align="center">
   <a href="https://github.com/AishwaryaCodes"><img src="https://img.shields.io/github/followers/AishwaryaCodes?label=Followers&style=social" alt="GitHub Followers"></a>
@@ -10,13 +10,19 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **Full-Stack & Web Development Projects**
-- 🌱 I’m currently learning **Software Development, Frontend Development, JavaScript, DSA, and Python**
-- 👯 I’m looking to collaborate on **Software Development Projects**
-- 👨‍💻 Check out my portfolio: [AishwaryaCodes Portfolio](https://aishwaryacodes.github.io/developer-webapp/)
-- 💬 Ask me about **UI/UX, Web Development, JavaScript, React JS, Angular, Java, Python, SQL**
-- 📚 My **DSA Preparation in JavaScript** repo: [DSA-Scripts](https://github.com/AishwaryaCodes/DSA-Scripts)
-- 📫 Reach me at: **akundur17@gmail.com**
+- 🔭 Currently building AI-powered Full-Stack Web Apps using React, FastAPI, LangChain, and vector databases like FAISS
+
+- 🌱 Upskilling in Machine Learning, AI Agent Development, Python, and Scalable System Design
+
+- 🤝 Open to collaboration on AI-driven software products, smart assistants, and LLM-integrated apps
+
+- 👨‍💻 Portfolio: [AishwaryaCodes Portfolio](https://aishwaryacodes.github.io/developer-webapp/)
+
+- 💬 Talk to me about UI/UX, React, Angular, JavaScript, Python, Java, SQL, and RESTful APIs
+
+- 📚 Actively sharing learnings in this JavaScript DSA Prep Repo →  [DSA-Scripts](https://github.com/AishwaryaCodes/DSA-Scripts)
+
+- 📫 Let's connect: akundur17@gmail.com
 
 ---
 
