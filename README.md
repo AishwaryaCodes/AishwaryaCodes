@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate Software Developer | MS in Computer Science | AI-ML | Women in Tech</h3>
 
-<p align="center">
-  <a href="https://github.com/AishwaryaCodes"><img src="https://img.shields.io/github/followers/AishwaryaCodes?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/aishwarya-kundur/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
 
 ---
 
