@@ -6,7 +6,9 @@
 
 ## 🔥 About Me
 
-- 🔭 Currently building AI-powered Full-Stack Web Apps using React, FastAPI, LangChain, and vector databases like FAISS
+- Expert in JavaScript/TypeScript
+
+- 🔭 Currently building AI-powered Full-Stack Web Apps using React, Python, FastAPI, LangChain, and vector databases like FAISS
 
 - 🌱 Upskilling in Machine Learning, AI Agent Development, Python, and Scalable System Design
 
@@ -14,7 +16,7 @@
 
 - 👨‍💻 Portfolio: [AishwaryaCodes Portfolio](https://aishwaryacodes.github.io/developer-webapp/)
 
-- 💬 Talk to me about UI/UX, React, Angular, JavaScript, Python, Java, SQL, and RESTful APIs
+- 💬 Talk to me about AI-ML, React, Angular, JavaScript, Python, Java, SQL, and RESTful APIs
 
 - 📚 Actively sharing learnings in this JavaScript DSA Prep Repo →  [DSA-Scripts](https://github.com/AishwaryaCodes/DSA-Scripts)
 
