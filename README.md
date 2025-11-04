@@ -86,35 +86,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaCodes&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AishwaryaCodes&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaCodes&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=AishwaryaCodes&theme=onedark" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📫 Let's Connect
-- **LinkedIn:** [Aishwarya Kundur](https://www.linkedin.com/in/aishwarya-kundur/)  
-- **GitHub:** [AishwaryaCodes](https://github.com/AishwaryaCodes)  
-- **Email:** [akundur17@gmail.com](mailto:akundur17@gmail.com)
 
 
 
