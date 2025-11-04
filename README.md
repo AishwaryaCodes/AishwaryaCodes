@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">A passionate Software Developer | 6+ Years in Tech | AI-ML | Women in Tech</h3>
 
-
 ---
 
 ## 🔥 About Me
@@ -15,8 +14,6 @@
 - 🤝 Open to collaboration on AI-driven software products, smart assistants, and LLM-integrated apps
 
 - 👨‍💻 Portfolio: [AishwaryaCodes Portfolio](https://aishwaryacodes.github.io/developer-webapp/)
-
-- 💬 Talk to me about AI-ML, React, Next.JS, JavaScript, Python, Java, SQL, and RESTful APIs
 
 - 📚 Actively sharing learnings in this JavaScript DSA Prep Repo →  [DSA-Scripts](https://github.com/AishwaryaCodes/DSA-Scripts)
 
@@ -39,10 +36,8 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
 </p>
 
 ### **Backend Development**
@@ -68,8 +63,6 @@
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
 ### **Machine Learning & AI**
@@ -79,12 +72,6 @@
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
 </p>
 
-### **Version Control & Collaboration**
-<p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">
-</p>
 
 
 
